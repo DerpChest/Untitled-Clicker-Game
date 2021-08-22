@@ -1,2 +1,2 @@
 # Untitled-Clicker-Game
-The Source Code For The Newgrounds Game "Untitled Clicker Game"
+This Repo is the Source Code For My Newgrounds Game "Untitled Clicker Game". UCG is a clicker game on newgrounds where you click on a button to unlock medals and reach up the scoreboard. The game is made with HaxeFlixel and i used Visual Studio Code As My IDE. When you are putting my game somewhere like gamejolt or itch.io, be a giga chad and credit my game. Thanks for looking at the source code! - DerpChest.
